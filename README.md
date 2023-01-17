@@ -5,3 +5,8 @@ It preprocess the images, then uses a Cascade Classifier to identify the faces
 After it draws the bounding boxes.
 
 Use it for what you want.
+
+-----------------------------------------------------------------
+Dependencies:
+OpenCV
+numpy
